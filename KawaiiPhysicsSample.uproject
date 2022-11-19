@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{DAC3F302-4BCF-2B51-5ACF-EC96C4D2ED5A}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "KawaiiPhysicsSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
